@@ -1,5 +1,5 @@
 ### <i>Olá! Eu sou o Rodrigo. Meu repositório está em construção. Em breve, disponibilizarei todos os códigos das linguagens que estudo.</i>
-<hr>
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/rodrigo-costa-e-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/Rodrigo-CeS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-CeS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-CeS&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-CeS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-CeS&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
     
@@ -24,7 +24,7 @@
   <img align="center" alt="CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </div>
-<hr>
+<br>
 
 ### <strong><i>Constante aprendiz, fascinado em adquirir e compartilhar conhecimento!</i></strong>
 
